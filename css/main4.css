@@ -1,0 +1,38 @@
+.a{
+    width: 180px;
+    background-color: rgb(213, 211, 211) !important;
+    height: 35px;
+}
+.b{
+    width: 180px;
+    background-color: rgb(213, 211, 211) !important;
+    height: 35px;
+}
+.f{
+    color: white;
+}
+.b1{
+    width: 180px;
+    color: black !important;
+    background-color: white !important;
+    border: 1px solid darkblue;
+    height: 35px;
+}
+.a1{
+width: 180px;
+color: white;
+}
+.b2{
+    width: 180px;
+    border: 1px solid green;
+}
+.b3{
+    width: 180px;
+    border: 1px solid red;
+}
+.b4{
+    width: 180px;
+}
+.g{
+    border: 2px solid blue;
+}
